@@ -7,29 +7,20 @@ body{
 
 
 .top-bar {
-    
+    position: absolute;
     color: #596470;
-    background-color: #121e29;
-    overflow: hidden;
-    display: block;
+    background: #121e29;
     color: white;
     text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    background-color: #111;
+    padding: 10px 0;
 }
 
 .top-bar li{
     padding: 14px 16px;
-    margin: 0;
-    float: none;
-    
+    float: none;  
 }
 .tippy a{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+    margin: top;
     background-color: #333;
 }
 
