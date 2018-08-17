@@ -1,0 +1,66 @@
+body{
+    background-color: #f0f2f2;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+
+
+.top-bar {
+    
+    color: #596470;
+    background-color: #121e29;
+    overflow: hidden;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #111;
+}
+
+.top-bar li{
+    padding: 14px 16px;
+    margin: 0;
+    float: none;
+    
+}
+.tippy a{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+
+ul a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li a {
+    display: block;
+    color: #596470;
+    text-align: center;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.button{
+    border-radius: 10px;
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+}
+.bottom{
+    background: #c6cbea;
+background: -moz-linear-gradient(top, #c6cbea 0%, #8b92d7 31%, #0614ac 100%);
+background: -webkit-linear-gradient(top, #c6cbea 0%,#8b92d7 31%,#0614ac 100%);
+background: linear-gradient(to bottom, #c6cbea 0%,#8b92d7 31%,#0614ac 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c6cbea', endColorstr='#0614ac',GradientType=0 );
+}
