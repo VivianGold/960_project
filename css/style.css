@@ -55,7 +55,7 @@ body{
    
 .more{
     
-    padding: 6px 8px;
+    padding: 0px 7px;
     background-color: #121e29;
     color: white;
     text-decoration: none;
@@ -65,11 +65,4 @@ body{
 }
 
 
-}
-.bottom{
-    background: #c6cbea;
-background: -moz-linear-gradient(top, #c6cbea 0%, #8b92d7 31%, #0614ac 100%);
-background: -webkit-linear-gradient(top, #c6cbea 0%,#8b92d7 31%,#0614ac 100%);
-background: linear-gradient(to bottom, #c6cbea 0%,#8b92d7 31%,#0614ac 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c6cbea', endColorstr='#0614ac',GradientType=0 );
-}
+
