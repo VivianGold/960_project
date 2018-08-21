@@ -4,49 +4,67 @@ body{
 
 }
 
+.tippy {
+    background-color: #121e29;
+    padding: 6px 0;
 
-
-.top-bar {
-    position: absolute;
-    color: #596470;
-    background: #121e29;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
 }
 
-.top-bar li{
-    padding: 14px 16px;
-    float: none;  
-}
 .tippy a{
-    margin: top;
-    background-color: #333;
-}
-
-
-
-ul a {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    
-}
-
-li a {
-    display: block;
     color: #596470;
-    text-align: center;
-    padding: 5px 10px;
     text-decoration: none;
+    text-transform: uppercase;
 }
 
-.button{
-    border-radius: 10px;
-    background-color: orange;
-    padding: 10px;
-    margin: 10px;
+.tippy ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+
+.tippy li{
+    display: inline;
+}
+
+.rave a{
+    padding: 6px 8px;
+    background-color: #121e29;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 8px;
+}
+
+.rave ul {
+    list-style: none;
+    margin: 30px 0 0;
+    padding: 0;
+    text-align: right;
+}
+
+.rave li{
+    display: inline;
+
+}
+
+.rave img{
+    margin: 15px 0;
+
+}
+   
+.more{
+    
+    padding: 6px 8px;
+    background-color: #121e29;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 8px;
+
+}
+
+
 }
 .bottom{
     background: #c6cbea;
